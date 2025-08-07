@@ -17,7 +17,7 @@ A simple, clean, and responsive task management app built with **Next.js 14 App 
 
 ## 🚀 Live Demo
 
-[View Live App](https://your-task-manager.vercel.app) *(Replace with your actual Vercel URL)*
+[View Live App](https://your-task-manager.verc
 
 ## 🛠️ Technologies Used
 
@@ -38,7 +38,7 @@ A simple, clean, and responsive task management app built with **Next.js 14 App 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/mikeyhim23/Gen-AI-Task-Tracker/task-manager.git
 cd task-manager
 ```
 
@@ -75,9 +75,6 @@ task-manager/
 │       ├── globals.css        # Global styles (Tailwind)
 │       ├── layout.js          # Root layout component
 │       └── page.js            # Main task manager component
-├── docs/                      # Project documentation
-│   ├── AI-Prompt-Journal.md   # AI learning process
-│   └── Common-Issues.md       # Troubleshooting guide
 ├── .eslintrc.json            # ESLint configuration
 ├── next.config.js            # Next.js configuration
 ├── package.json              # Dependencies and scripts
@@ -147,9 +144,9 @@ This project doesn't require environment variables for basic functionality.
 
 ## 🤖 AI-Assisted Development
 
-This project was built using AI-assisted learning and development. The complete learning process is documented in [AI-Prompt-Journal.md](./docs/AI-Prompt-Journal.md), including:
+This project was built using AI-assisted learning and development. The complete learning process is documented in AI Prompts Journal including:
 
-- 10 strategic AI prompts used
+- Strategic AI prompts used
 - Learning reflections and insights
 - Problem-solving approaches
 - Technical decision rationale
@@ -205,11 +202,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - your.email@example.com
+Christopher Ng'ang'a - karanjamikey@gmail.com
 
-**Project Link** - [https://github.com/yourusername/task-manager](https://github.com/yourusername/task-manager)
-
-**Live Demo** - [https://your-task-manager.vercel.app](https://your-task-manager.vercel.app)
+**Project Link** - 
 
 ---
 
