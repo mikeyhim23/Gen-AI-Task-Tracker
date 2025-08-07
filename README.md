@@ -2,8 +2,6 @@
 
 A simple, clean, and responsive task management app built with **Next.js 14 App Router** and **Tailwind CSS**. This project allows users to add, complete, and delete tasks with data persisted in `localStorage` for a seamless user experience.
 
-![Task Manager Preview](https://via.placeholder.com/800x400/f3f4f6/374151?text=Task+Manager+App)
-
 ## ✨ Features
 
 - ✅ **Add Tasks** - Create new tasks with a clean, intuitive interface
@@ -14,10 +12,6 @@ A simple, clean, and responsive task management app built with **Next.js 14 App 
 - ✅ **Modern UI** - Clean design with hover effects and smooth transitions
 - ✅ **Real-time Statistics** - Track total, completed, and remaining tasks
 - ✅ **Keyboard Support** - Add tasks by pressing Enter key
-
-## 🚀 Live Demo
-
-[View Live App](https://your-task-manager.verc
 
 ## 🛠️ Technologies Used
 
@@ -38,7 +32,7 @@ A simple, clean, and responsive task management app built with **Next.js 14 App 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mikeyhim23/Gen-AI-Task-Tracker/task-manager.git
+git clone https://github.com/mikeyhim23/Gen-AI-Task-Tracker.git
 cd task-manager
 ```
 
@@ -204,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Christopher Ng'ang'a - karanjamikey@gmail.com
 
-**Project Link** - 
+**Project Link** - https://github.com/mikeyhim23/Gen-AI-Task-Tracker.git
 
 ---
 
